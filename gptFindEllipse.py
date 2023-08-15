@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 from collections import deque
-# test1df
+# test1dfdf
 # Initialize the webcam
 videoname = '3CTest2' #input video clip name
 cap = cv2.VideoCapture(videoname + '.mp4') #可以直接输入视频名称，或者输入args.image后用cmd运行
