@@ -8,7 +8,7 @@ cap = cv2.VideoCapture(videoname + '.mp4') #可以直接输入视频名称，或
 
 
 
-# lower_color = np.array([40,130,0])
+# lower_color = np.array([40,130,0]) test
 # upper_color = np.array([150,200,10])
 #
 #
